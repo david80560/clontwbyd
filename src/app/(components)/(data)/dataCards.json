@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Valorant",
+        "viewers": "+1M+",
+        "categorias": ["FPS", "Shooter", "Action"],
+        "image": "valorant.jpg"
+    },
+    {
+        "name": "Just Chatting",
+        "viewers": "+5M+",
+        "categorias": ["IRL"],
+        "image": "justchat.jpg"
+    },
+    {
+        "name": "Counter-Strike",
+        "viewers": "+6M+",
+        "categorias": ["FPS", "Shooter", "Action"],
+        "image": "counterstrike.jpeg"
+    },
+    {
+        "name": "Apex Legends",
+        "viewers": "+2M+",
+        "categorias": ["FPS", "Shooter", "Action"],
+        "image": "apex.jpeg"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "viewers": "+6M+",
+        "categorias": ["FPS", "Shooter"],
+        "image": "gta.jpg"
+    },
+    {
+        "name": "League of Legends",
+        "viewers": "+3M+",
+        "categorias": ["RPG", "Strategy", "MOBA"],
+        "image": "league.jpg"
+    }
+]
